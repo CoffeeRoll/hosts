@@ -1,0 +1,10 @@
+# Title: CoffeeRoll/hosts
+#
+# This hosts file is a supplement list to fill in some gaps in other publicly available lists.
+#
+# ===============================================================
+0.0.0.0 grs.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 browser.sentry-cdn.com
