@@ -8,3 +8,7 @@
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
